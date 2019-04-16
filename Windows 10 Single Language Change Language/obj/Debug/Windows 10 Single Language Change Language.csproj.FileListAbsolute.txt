@@ -1,0 +1,20 @@
+C:\Users\Barış MIZRAKLI\Desktop\Windows Project\Windows 10 Single Language Change Language\Windows 10 Single Language Change Language\bin\Debug\Windows 10 Single Language Change Language.exe.config
+C:\Users\Barış MIZRAKLI\Desktop\Windows Project\Windows 10 Single Language Change Language\Windows 10 Single Language Change Language\bin\Debug\Windows 10 Single Language Change Language.exe
+C:\Users\Barış MIZRAKLI\Desktop\Windows Project\Windows 10 Single Language Change Language\Windows 10 Single Language Change Language\bin\Debug\Windows 10 Single Language Change Language.pdb
+C:\Users\Barış MIZRAKLI\Desktop\Windows Project\Windows 10 Single Language Change Language\Windows 10 Single Language Change Language\obj\Debug\Windows 10 Single Language Change Language.csprojAssemblyReference.cache
+C:\Users\Barış MIZRAKLI\Desktop\Windows Project\Windows 10 Single Language Change Language\Windows 10 Single Language Change Language\obj\Debug\Windows_10_Single_Language_Change_Language.Form1.resources
+C:\Users\Barış MIZRAKLI\Desktop\Windows Project\Windows 10 Single Language Change Language\Windows 10 Single Language Change Language\obj\Debug\Windows_10_Single_Language_Change_Language.Properties.Resources.resources
+C:\Users\Barış MIZRAKLI\Desktop\Windows Project\Windows 10 Single Language Change Language\Windows 10 Single Language Change Language\obj\Debug\Windows 10 Single Language Change Language.csproj.GenerateResource.cache
+C:\Users\Barış MIZRAKLI\Desktop\Windows Project\Windows 10 Single Language Change Language\Windows 10 Single Language Change Language\obj\Debug\Windows 10 Single Language Change Language.csproj.CoreCompileInputs.cache
+C:\Users\Barış MIZRAKLI\Desktop\Windows Project\Windows 10 Single Language Change Language\Windows 10 Single Language Change Language\obj\Debug\Windows 10 Single Language Change Language.exe
+C:\Users\Barış MIZRAKLI\Desktop\Windows Project\Windows 10 Single Language Change Language\Windows 10 Single Language Change Language\obj\Debug\Windows 10 Single Language Change Language.pdb
+C:\Users\Barış MIZRAKLI\Desktop\Windows Project\Windows 10 Single Language Change Language\Windows 10 Single Language Change Language\obj\Debug\Windows_10_Single_Language_Change_Language.giris.resources
+C:\Users\Shaptick\Desktop\Github\Windows-10-Single-Language-Change-Language\Windows 10 Single Language Change Language\obj\Debug\Windows 10 Single Language Change Language.pdb
+C:\Users\Shaptick\Desktop\Github\Windows-10-Single-Language-Change-Language\Windows 10 Single Language Change Language\bin\Debug\Windows 10 Single Language Change Language.exe
+C:\Users\Shaptick\Desktop\Github\Windows-10-Single-Language-Change-Language\Windows 10 Single Language Change Language\bin\Debug\Windows 10 Single Language Change Language.pdb
+C:\Users\Shaptick\Desktop\Github\Windows-10-Single-Language-Change-Language\Windows 10 Single Language Change Language\obj\Debug\Windows 10 Single Language Change Language.csprojAssemblyReference.cache
+C:\Users\Shaptick\Desktop\Github\Windows-10-Single-Language-Change-Language\Windows 10 Single Language Change Language\obj\Debug\Windows_10_Single_Language_Change_Language.Form1.resources
+C:\Users\Shaptick\Desktop\Github\Windows-10-Single-Language-Change-Language\Windows 10 Single Language Change Language\obj\Debug\Windows_10_Single_Language_Change_Language.Properties.Resources.resources
+C:\Users\Shaptick\Desktop\Github\Windows-10-Single-Language-Change-Language\Windows 10 Single Language Change Language\obj\Debug\Windows 10 Single Language Change Language.csproj.GenerateResource.cache
+C:\Users\Shaptick\Desktop\Github\Windows-10-Single-Language-Change-Language\Windows 10 Single Language Change Language\obj\Debug\Windows 10 Single Language Change Language.csproj.CoreCompileInputs.cache
+C:\Users\Shaptick\Desktop\Github\Windows-10-Single-Language-Change-Language\Windows 10 Single Language Change Language\obj\Debug\Windows 10 Single Language Change Language.exe
